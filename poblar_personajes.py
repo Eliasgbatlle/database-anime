@@ -6,7 +6,7 @@ import time
 from collections import Counter
 
 # === CONFIGURACION ===
-DB_PATH = "gacha_data/database.db"
+DB_PATH = "database-anime/database.db"
 CACHE_PATH = "gelbooru_cache.json"
 LIMITE_TOTAL_PERSONAJES = 37000  # Puedes cambiarlo a 1000, 5000, etc.
 IMAGENES_POR_PERSONAJE = 50
